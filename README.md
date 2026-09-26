@@ -1,4 +1,7 @@
 # ZMK Layout for Corne
+
+I have since changed my hardware, but the keyboard map described below is still valid. 
+
 The ZMK layout I use with an [Aurora Corne](https://splitkb.com/collections/keyboard-kits/products/aurora-corne) and a standard Corne by [keebmaker](www.keebmaker.com). It is geared towards MacOS, and it allows typesetting of certain accented Italian letters.
 
 This mapping is a customization of [Josean Martinez's](https://github.com/josean-dev/zmk-config/blob/master/config/corne.keymap) corne mapping. I am grateful to [Cem Aksoylar](https://github.com/caksoylar/zmk-config/tree/stock) from whom I have taken the combos macros.
