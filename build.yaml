@@ -23,3 +23,7 @@ include:
     shield: corne_right
   - board: nice_nano_v2
     shield: settings_reset
+  - board: halcyon_wireless//zmk
+    shield: halcyon_to_promicro splitkb_aurora_corne_left mod_battery_lipo 
+  - board: halcyon_wireless//zmk
+    shield: halcyon_to_promicro splitkb_aurora_corne_right mod_battery_lipo 
